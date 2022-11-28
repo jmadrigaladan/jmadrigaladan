@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmadrigaladan
 - 👀 I’m interested in Front End Software Engineering
-- 🌱 I’m currently working on projects in the followign technologies React.js, Next.js, and Vue.js
+- 🌱 I’m currently working on projects in the following technologies React.js, Next.js, and Vue.js
 - 💞️ I’m looking to collaborate on any frontend project!
 - 📫 How to reach me email(jorgemadrigaladan@gmail.com)
 
